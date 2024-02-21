@@ -13,12 +13,8 @@
     gap: 32px;
 }
 
-.ff {
+.ff-jakarata {
     font-family: Plus Jakarta sans;
-}
-
-ul li a {
-    text-decoration: none;
 }
 
 .opacity_text {
@@ -286,7 +282,7 @@ ul li a {
 }
 
 .max-461 {
-    max-width: 461px;
+    max-width: none;
 }
 
 .max-w {
@@ -582,6 +578,10 @@ ul li a {
     .pt-124 {
         padding-top: 124px;
     }
+
+    .max-461 {
+        max-width: 461px;
+    }
 }
 
 @media (max-width:992px) {
@@ -605,21 +605,6 @@ ul li a {
     max-width: 997px;
     bottom: 11%;
     padding: 22px 32.98px;
-}
-
-.box_fontB {
-    font-size: 60px;
-    font-weight: 700;
-    line-height: 66px;
-    color: #FDFCFC;
-}
-
-.fontS {
-    font-size: 18px;
-    line-height: 26.1px;
-    font-weight: 400;
-    color: #FDFCFC;
-    max-width: 133.6px;
 }
 
 .left_line {
